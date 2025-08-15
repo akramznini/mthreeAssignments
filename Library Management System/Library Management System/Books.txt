@@ -1,9 +1,0 @@
-BK-000001,HPAPS,J.K. Rowling,2022-09-22,physical
-BK-000002,Harry Potter and the Chamber of Secrets,J.K. Rowling,2022-03-15,physical
-BK-000003,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,2022-06-01,ebook
-BK-000004,The Fellowship of the Ring,J.R.R. Tolkien,2021-05-20,voice
-BK-000005,The Two Towers,J.R.R. Tolkien,2021-06-25,video
-BK-000006,The Return of the King,J.R.R. Tolkien,2021-07-30,physical
-BK-000007,A Game of Thrones,George R.R. Martin,2020-11-12,ebook
-BK-000008,Steve's Diaries,Steve Burr,2023-09-23,physical
-BK-000009,Kiki's Adventures,Samantha Smith,2025-08-15,voice
